@@ -1,0 +1,18 @@
+h1{background-color: blue;}
+h1{color: white;}
+.p1{background-color: lightgray;
+color: black;}
+.p2{
+    color: red;
+}
+.green{background-color: green;}
+.main-content{background-color: yellow;}
+#id1{text-align: center;}
+a{text-decoration-line: none;}
+.heading{text-decoration-line: underline; text-decoration-style: dashed;}
+#id2{font-weight: bold;}
+#idintro{font-weight: 300;}
+body{font-family: Arial, sans-serif;}
+.custom-font{font-family: 'Times New Roman', Times, serif;}
+.transformed{text-transform: uppercase;}
+.capitalize-text {text-transform: capitalize;}
